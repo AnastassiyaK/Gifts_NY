@@ -1,0 +1,17 @@
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\New_year_gifts.exe.config
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\New_year_gifts.exe
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\New_year_gifts.pdb
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.csprojAssemblyReference.cache
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.NewYearsGift.resources
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.Properties.Resources.resources
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.csproj.GenerateResource.cache
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.csproj.CoreCompileInputs.cache
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.exe
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.pdb
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.Sort_Parametr.resources
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\NLog.config
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\NLog.dll
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\NLog.xml
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\obj\Debug\New_year_gifts.csproj.CopyComplete
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\Newtonsoft.Json.dll
+E:\Epam_training\Project_NY\New_year_gifts\New_year_gifts\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,47 @@
+{
+  "sweets": {
+    "Chocolate": {
+      "sweet": [
+        {
+          "Name": "Сорванец",
+          "Weight": "35",
+          "Manufacturer": "Коммунарка",
+          "Stuff": "клубника",
+          "Type": "темный шоколад"
+        },
+        {
+          "Name": "Мишка на поляне",
+          "Weight": "30",
+          "manufacturer": "Коммунарка",
+          "Stuff": "лимон",
+          "Type": "молочный шоколад"
+        },
+        {
+          "Name": "Арахисовая",
+          "Weight": "32",
+          "Manufacturer": "Коммунарка",
+          "Stuff": "орехи",
+          "Yype": "молочный шоколад"
+        }
+      ]
+    },
+    "Lollipop": {
+      "sweet": [
+        {
+          "Sweetname": "Молочная",
+          "Weight": "19",
+          "Manufacturer": "Коммунарка",
+          "Type": "конфета",
+          "Kind": "сладкая"
+        },
+        {
+          "SweetName": "Взлетная",
+          "Weight": "11",
+          "Manufacturer": "Спартак",
+          "Type": "конфета на палочке",
+          "Kind": "кислая"
+        }
+      ]
+    }
+  }
+}

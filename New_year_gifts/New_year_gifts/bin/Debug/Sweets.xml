@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<sweets>
+  <Chocolate>
+      <sweet name = "Сорванец">
+      <weight>35</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>клубника</stuff>
+      <type>темный</type>	
+      </sweet>
+      <sweet name = "Мишка на поляне">
+      <weight>30</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>лимон</stuff>
+      <type>молочный</type>
+      </sweet>
+      <sweet name = "Арахисовая">
+      <weight>32</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>орехи</stuff>
+      <type>молочный</type>	
+      </sweet>
+ <sweet name = "Аленка">
+      <weight>32</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>помадка</stuff>
+      <type>молочный</type>	
+      </sweet>
+<sweet name = "Столичный">
+      <weight>50</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>коньяк</stuff>
+      <type>темный</type>	
+      </sweet>
+<sweet name = "Трюфель">
+      <weight>40</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <stuff>шоколад</stuff>
+      <type>темный</type>	
+      </sweet>
+<sweet name = "Веселый гном">
+      <weight>30</weight>
+      <manufacturer>Спартак</manufacturer>
+      <stuff>бисквит</stuff>
+      <type>молочный</type>	
+      </sweet>
+<sweet name = "Rafaello">
+      <weight>80</weight>
+      <manufacturer>Рошен</manufacturer>
+      <stuff>орехи</stuff>
+      <type>молочный</type>	
+      </sweet>
+ </Chocolate>
+  <Lollipop>
+      <sweet name = "Молочная">
+      <weight>19</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <type>карамель</type>
+      <kind>сладкая</kind>	
+      </sweet>
+      <sweet name = "Взлетная">
+      <weight>11</weight>
+      <manufacturer>Спартак</manufacturer>
+      <type>конфета на палочке</type>
+      <kind>кислая</kind>	
+      </sweet>
+  <sweet name = "Барбарис">
+      <weight>11</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <type>карамель</type>
+      <kind>сладкая</kind>	
+      </sweet><sweet name = "Дюшес">
+      <weight>11</weight>
+      <manufacturer>Коммунарка</manufacturer>
+      <type>карамель</type>
+      <kind>сладкая</kind>	
+      </sweet></Lollipop>
+</sweets>

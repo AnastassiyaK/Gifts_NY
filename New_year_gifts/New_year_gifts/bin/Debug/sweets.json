@@ -1,0 +1,102 @@
+{
+  "Chocolate": [
+    {
+      "SweetName": "Сорванец",
+      "Weight": 35,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "клубника",
+      "Type": "темный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Мишка на поляне",
+      "Weight": 30,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "лимон",
+      "Type": "молочный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Арахисовая",
+      "Weight": 32,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "орехи",
+      "Type": "молочный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Аленка",
+      "Weight": 32,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "помадка",
+      "Type": "молочный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Столичный",
+      "Weight": 50,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "коньяк",
+      "Type": "темный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Трюфель",
+      "Weight": 40,
+      "Manufacturer": "Коммунарка",
+      "Stuff": "шоколад",
+      "Type": "темный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Веселый гном",
+      "Weight": 30,
+      "Manufacturer": "Спартак",
+      "Stuff": "бисквит",
+      "Type": "молочный",
+      "Category": "Шоколадные"
+    },
+    {
+      "SweetName": "Rafaello",
+      "Weight": 80,
+      "Manufacturer": "Рошен",
+      "Stuff": "орехи",
+      "Type": "молочный",
+      "Category": "Шоколадные"
+    }
+  ],
+  "Lollipop": [
+    {
+      "Sweetname": "Молочная",
+      "Weight": "19",
+      "Manufacturer": "Коммунарка",
+      "Type": "карамель",
+      "Kind": "сладкая",
+      "Category": "Леденцы"
+    },
+    {
+      "SweetName": "Взлетная",
+      "Weight": 10,
+      "Manufacturer": "Спартак",
+      "Type": "конфета на палочке",
+      "Kind": "кислая",
+      "Category": "Леденцы"
+    },
+    {
+      "SweetName": "Барбарис",
+      "Weight": 11,
+      "Manufacturer": "Коммунарка",
+      "Type": "карамель",
+      "Kind": "сладкая",
+      "Category": "Леденцы"
+    },
+    {
+      "SweetName": "Дюшес",
+      "Weight": 11,
+      "Manufacturer": "Коммунарка",
+      "Type": "карамель",
+      "Kind": "сладкая",
+      "Category": "Леденцы"
+    }
+  ]
+}
